@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="50%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#1a0000"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <text x="600" y="380" text-anchor="middle" font-size="120" fill="#D4A017" opacity="0.9">🍺</text>
+  <text x="600" y="500" text-anchor="middle" font-family="Impact,sans-serif" font-size="48" fill="#E6EDF3" letter-spacing="4">CERVECERÍA MORENO</text>
+  <text x="600" y="550" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#8B949E" font-style="italic">Donde Quilmes se toma una birra</text>
+</svg>
